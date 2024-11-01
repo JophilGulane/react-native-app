@@ -1,3 +1,3 @@
-# React Native Project 
+ # React Native Project 
 # A simple reddit App
 
